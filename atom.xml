@@ -6,7 +6,7 @@
   <link href="http://luoxungh.github.io/atom.xml" rel="self"/>
   
   <link href="http://luoxungh.github.io/"/>
-  <updated>2021-07-03T10:45:51.787Z</updated>
+  <updated>2021-07-06T15:42:34.110Z</updated>
   <id>http://luoxungh.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo</title>
+    <title>WSL Ubuntu忘记root密码和用户密码</title>
+    <link href="http://luoxungh.github.io/2021/07/06/wsl-ubuntu-wang-ji-root-mi-ma-he-yong-hu-mi-ma/"/>
+    <id>http://luoxungh.github.io/2021/07/06/wsl-ubuntu-wang-ji-root-mi-ma-he-yong-hu-mi-ma/</id>
+    <published>2021-07-06T15:39:41.393Z</published>
+    <updated>2021-07-06T15:42:34.110Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、重置root密码&quot;&gt;&lt;a href=&quot;#一、重置root密码&quot; class=&quot;headerlink&quot; title=&quot;一、重置root密码&quot;&gt;&lt;/a&gt;一、重置root密码&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;以管理员身份打开</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="http://luoxungh.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="WSL, Ubuntu" scheme="http://luoxungh.github.io/tags/WSL-Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Command</title>
     <link href="http://luoxungh.github.io/2021/07/03/hexo/"/>
     <id>http://luoxungh.github.io/2021/07/03/hexo/</id>
     <published>2021-07-03T10:45:33.324Z</published>
-    <updated>2021-07-03T10:45:51.787Z</updated>
+    <updated>2021-07-06T15:41:45.285Z</updated>
     
     
       
